@@ -7,7 +7,7 @@
 🚀 Check out my portfolio: [your-portfolio.com]  
 -->
 ## 🚀 Tech Stack  
-- ⚙️ Backend: **Java** <!-- Python-->
+- ⚙️ Backend: **Java, Python** 
 - 💻 Frontend: **HTML, JavaScript, CSS**
 - 🗄️ Database: **MySQL** <!-- MongoDB-->
 - 🛠️ DevOps & System Tools: **VirtualBox, Docker**
