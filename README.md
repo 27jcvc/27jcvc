@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack  
 - ⚙️ Backend: **Java, Python** 
 - 💻 Frontend: **HTML, JavaScript, CSS**
-- 🗄️ Database: **MySQL** <!-- MongoDB-->
+- 🗄️ Database: **MySQL, MongoDB**
 - 🛠️ DevOps & System Tools: **VirtualBox, Docker**
 - 📂 System Administration: **Windows, Linux**
 - ⚙️ Scripting & Automation: **PowerShell, Bash**
