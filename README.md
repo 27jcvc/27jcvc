@@ -23,7 +23,7 @@
 ## 🗨️ Contacts  
 <!--📫 **Email:** [your.email@example.com](mailto:your.email@example.com)  -->
 
-🚀 **Portfolio:** [Portfolio](https://endearing-kangaroo-070e3c.netlify.app/)  
+🚀 **Portfolio:** [Portfolio](https://juliovzq.netlify.app/)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliovzq)
 
