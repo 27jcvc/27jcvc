@@ -19,13 +19,6 @@
 ### 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
 ![Node.JSs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)  
--->
-## 🗨️ Contacts  
-<!--📫 **Email:** [your.email@example.com](mailto:your.email@example.com)  -->
-
-🚀 **Portfolio:** [Portfolio](https://juliovzq.netlify.app/)  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliovzq)
 
 <!--
 ### 📊 GitHub Stats
