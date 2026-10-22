@@ -7,13 +7,13 @@
 🚀 Check out my portfolio: [your-portfolio.com]  
 -->
 ## 🚀 Tech Stack  
-- ⚙️ Backend: **Java, Python** 
-- 💻 Frontend: **HTML, JavaScript, CSS**
-- 🗄️ Database: **MySQL, MongoDB**
-- 🛠️ DevOps & System Tools: **VirtualBox, Docker**
-- 📂 System Administration: **Windows, Linux**
-- ⚙️ Scripting & Automation: **PowerShell, Bash**
-- 📑 Data Formats: **XML, JSON**  
+- ⚙️ Backend: Java, Python, PHP | POO, MVC, APIs & Servicios Web, Diagramas UML
+- 💻 Frontend & UI/UX: HTML, CSS, JavaScript, TypeScript | Figma (Diseño Responsive y Modular)
+- 🗄️ Database: MySQL, MongoDB | Modelado Entidad-Relación, SQL (DDL/DML), NoSQL
+- 🛠️ DevOps & System Tools: VirtualBox, Docker
+- 📂 System Administration: Windows Server Core 2022, Active Directory, Ubuntu Server (Linux)
+- ⚙️ Scripting & Automation: PowerShell, Bash
+- 📑 Data Formats: XML, JSON
 
 <!--
 ### 💻 Tech Stack
